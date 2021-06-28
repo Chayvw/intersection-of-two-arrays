@@ -2,7 +2,7 @@
 // set only stores unique values only once
 const nums1 = [6,18, 28, 6, 1, 10, 18]; // 6, 18
 const nums2 = [18, 22, 45, 9, ]; // 18
-// Output: [2]
+// Output: [18]
 
 
 const intersection = (nums1, nums2)=>{
